@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">ElecRick</string>
     <string name="title_activity_welcome">Map</string>
-    <string name="google_direction_api_web">AIzaSyBTBcOa937ycYS1GH7WywyDANlbuZhP6sw</string>
-    <string name="google_places_api">AIzaSyCDXfc5FwRDqYC_-HVhe6mELyQVPXOJnC0</string>
+    <string name="google_direction_api_web">AIzaSyBTBcOa937ycYS1GH7WywyDANlbuZhP6swmeanmolme</string>
+    <string name="google_places_api">AIzaSyCDXfc5FwRDqYC_-HVhe6mELyQVPXOJnC0meanmolme</string>
     <string name="title_activity_driver_tracking">Map</string>
 
 </resources>
