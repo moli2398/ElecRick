@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882511539237",
+    "firebase_url": "https://elecrickrider.firebaseio.com",
+    "project_id": "elecrickrider",
+    "storage_bucket": "elecrickrider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882511539237:android:e9bd77faded9f107",
+        "android_client_info": {
+          "package_name": "com.example.elecrickrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882511539237-rpdgqdn2ai9gbt1vbrs4mgnrq3apimjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXy9QgzawSDV_KYUXSrJKNCqfuk11ou_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882511539237-rpdgqdn2ai9gbt1vbrs4mgnrq3apimjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
